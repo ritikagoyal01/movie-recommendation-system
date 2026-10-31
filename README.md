@@ -33,7 +33,7 @@ Download the dataset and place `movies.csv` and `ratings.csv` inside:
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/ritikagoyal01/movie-recommendation-system
 cd movie-recommendation-system
 ```
 
